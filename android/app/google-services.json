@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "123456789",
+    "firebase_url": "https://task-manager-placeholder.firebaseio.com",
+    "project_id": "task-manager-placeholder",
+    "storage_bucket": "task-manager-placeholder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123456789:android:abcd1234efgh5678",
+        "android_client_info": {
+          "package_name": "com.haseeb.taskNest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDummyKeyForPlaceholder12345678"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
