@@ -118,7 +118,7 @@ lib/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/haseeb-28/task_manager.git
+https://github.com/haseeb-28/Tasknest-A-Modern-Flutter-Task-Manager-App.git
 cd task_manager
 ```
 
