@@ -267,7 +267,7 @@ app-x86_64-release.apk
 
 ---
 
-# ✅ Assignment Criteria Coverage
+# ✅ Project Criteria Coverage
 
 | Criteria | Status |
 |----------|--------|
